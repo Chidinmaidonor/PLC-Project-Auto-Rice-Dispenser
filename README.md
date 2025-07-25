@@ -1,6 +1,6 @@
 <h1>Jollof Rice Dispenser PLC Project</h1>
 
-### [YouTube Demonstration](https://youtu.be/jdz9wYqydS0)
+### [YouTube Demonstration](https://youtu.be/br58FgKLC3g)
 
 <h2>Description</h2>
 This PLC automation project simulates a real-world batch process commonly found in food and beverage industries, specifically modeling the sequential cooking of Jollof Rice. Developed in Siemens TIA Portal v15.1, the logic architecture leverages ladder logic programming techniques including:
