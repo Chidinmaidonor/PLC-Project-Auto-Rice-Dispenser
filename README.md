@@ -35,8 +35,7 @@ This model is ideal for instructional purposes and demonstrates how timers and c
 <h2> 🧰 Github Link
 </h2>  (https://github.com/Chidinmaidonor/PLC-Project-Auto-Rice-Dispenser/edit/main/README.md)
 
-<h2> 🧰 Screen recording tool
-</h2>  (obs studio)
+<h2> 🧰 Screen recording tool</h2> - OBS Studio
 
 <h3>Phase one: Loading and Inspection of the Dataset<h3>
 <p align="center">
