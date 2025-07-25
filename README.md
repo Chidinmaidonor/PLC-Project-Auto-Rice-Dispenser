@@ -1,4 +1,4 @@
-<h1>Jollof Rice Dispenser PLC Project</h1>
+<h1>Auto Rice Dispenser PLC Project</h1>
 
 ### [YouTube Demonstration](https://youtu.be/br58FgKLC3g)
 
