@@ -37,21 +37,15 @@ This model is ideal for instructional purposes and demonstrates how timers and c
 
 <h2> 🧰 Screen recording tool</h2> - OBS Studio
 
-<h3>Phase one: Loading and Inspection of the Dataset<h3>
+<h3>Ladder Logic Network One to Eight<h3>
 <p align="center">
-<img src ="screenshot/1.png" alt="inspect dataset">
+<img src ="Documents/Auto Jollof Rice Cooker/Screenshots/1.png" alt="1">
 
-<h3>Phase two: Next, we preprocess the data<h3>
-<img src ="screenshot/2.png">
-<img src ="screenshot/3.png">
-<h3>Phase three: We split the data and then train the model<h3>
-<img src ="screenshot/4.png">
+<img src ="Documents/Auto Jollof Rice Cooker/Screenshots/2.png" alt="2">
 
-<h3>Phase four: This is where our prediction is visualised<h3>
-<img src ="screenshot/5.png">
+<img src ="Documents/Auto Jollof Rice Cooker/Screenshots/3.png" alt="3">
 
-<h3>Phase six: Next day prediction<h3>
-<img src ="screenshot/6.png">
+<img src ="Documents/Auto Jollof Rice Cooker/Screenshots/4.png" alt="4">
 </p>
 
 </p>
